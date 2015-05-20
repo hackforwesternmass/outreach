@@ -1,0 +1,97 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: HackForWesternMass-ChallengesOutreach.indd
+
+PACKAGE DATE: 4/21/13 7:37 PM
+Creation Date: 4/18/13
+Modification Date: 4/21/13
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: Molly McLeod
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: molly.ampersand@gmail.com
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :None
+
+FONTS
+8 Fonts Used; 0 Missing, 0 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Haymaker; Type: TrueType, Status: OK
+- Name: MissionGothic-Black; Type: OpenType Type 1, Status: OK
+- Name: MissionGothic-Bold; Type: OpenType Type 1, Status: OK
+- Name: MissionGothic-Light; Type: OpenType Type 1, Status: OK
+- Name: MissionGothic-LightItalic; Type: OpenType Type 1, Status: OK
+- Name: MissionGothic-Regular; Type: OpenType Type 1, Status: OK
+- Name: MissionGothic-RegularItalic; Type: OpenType Type 1, Status: OK
+- Name: WisdomScriptAI; Type: OpenType Type 1, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 1 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 75.000; Lines/Inch: 70.000
+- Name and Type: Process Magenta; Angle: 15.000; Lines/Inch: 70.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 70.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: C=25 M=27 Y=0 K=59 2; Angle: 45.000; Lines/Inch: 70.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 0 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 0 use RGB color space
+
+PRINT SETTINGS
+PPD: Device Independent, (PostScript¨ File)
+Printing To: Prepress File
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0p0, 0p0, 0p0, 0p0
+Color: Composite CMYK
+Trapping Mode: None
+Send Image Data: All
+OPI/DCS Image Replacement: No
+Page Size: Letter
+Paper Dimensions: 0p0 x 0p0
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. HackForWesternMass-ChallengesOutreach.indd; type: Adobe InDesign publication; size: 2596K
+2. Haymaker.ttf; type: Font file; size: 20K
+3. Mission Gothic Black.otf; type: Font file; size: 31K
+4. Mission Gothic Bold.otf; type: Font file; size: 29K
+5. Mission Gothic Light.otf; type: Font file; size: 28K
+6. Mission Gothic Light Italic.otf; type: Font file; size: 33K
+7. Mission Gothic Regular.otf; type: Font file; size: 28K
+8. Mission Gothic Regular Italic.otf; type: Font file; size: 33K
+9. Wisdom Script.otf; type: Font file; size: 12K
